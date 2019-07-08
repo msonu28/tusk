@@ -3,7 +3,9 @@ class Lab1{
     int a = 10;
     int b = 20;
     int c = 30
+    int d = 100;
     System.out.println(a+b);
     System.out.println(a+b+c);
+    System.out.println(a+b+c+d);
   }
 }
